@@ -1,4 +1,4 @@
-# Fetch The Ball Game (Unity 2D)
+# Fetch The Ball Game (Unity 3D)
 
 ## Description
 
